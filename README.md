@@ -146,6 +146,12 @@ Get API KEY of Kaggle by logging yourself into the site
     - Classical machine learning models were not only chose from sklearn but also from other various packages which are aggresive too.
 
 
+**Warning:**
+*Running this notebook completely, with basic system requirements is going to take a long time of processing.*
+
+<br/>
+
+
 ### 5.Playstore-FeatureSelection.ipynb
 
     - After finalising a best fit model, we gave a try implementing some feature selection models, but unfortunatly they were in vain.
@@ -160,8 +166,14 @@ Get API KEY of Kaggle by logging yourself into the site
 ### 6.Playstore-RegressionCatboost.ipynb
 
     - The finalised model has gone through some manual tuning of hyper parameters and presented as final solution.
-    
 
+    
+**Warning:**
+*Running this notebook completely, with basic system requirements is going to take a long time of processing.*
+
+<br/>
+    
+**Note:**
  *The thoeritical base and better understanging of the project can still be extracted from the final documentation.*
 
 <br/>
