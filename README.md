@@ -93,9 +93,8 @@ pip install -r requirments.txt
 ```
 
 **Step-4:**
-```
-- Get API KEY of Kaggle by logging yourself into the site
-```
+
+Get API KEY of Kaggle by logging yourself into the site
 <br />
 
 **Step-5:**
