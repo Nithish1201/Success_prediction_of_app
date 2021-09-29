@@ -47,7 +47,7 @@ The directory ```exp-notebooks``` is a folder of experimental notebooks, which i
 
 # Build With
 
-### The below mentioned are some of the most cardinal python modules used in this project
+The below mentioned are some of the most cardinal python modules used in this project
 
 - Numpy 
 - Pandas
@@ -95,15 +95,15 @@ pip install -r requirments.txt
 
 **step-4:**
 
-### Get API KEY of Kaggle by logging yourself into the site
+Get API KEY of Kaggle by logging yourself into the site
 <br />
 
 **step-5:**
 
- <font size = "5"> Order of Executing the Notebooks </font> 
+## Order of Executing the Notebooks
 <br/>
 
-## 1.Playstore-Cleaning.ipynb
+### 1.Playstore-Cleaning.ipynb
 
     - Cleans the data completely using Pandas.
     - Getting rid of unwanted columns.
@@ -116,7 +116,7 @@ pip install -r requirments.txt
 
 <br/>
 
-## 2.Playstore-Visualization.ipynb
+### 2.Playstore-Visualization.ipynb
 
     - Visualizing the data to gain some insights about the data.
     - Giving some graphics to the plots using Matplotlib and seaborn.
@@ -128,7 +128,7 @@ pip install -r requirments.txt
 
 <br/>
 
-## 3.Playstore-EDA&Responses.ipynb
+### 3.Playstore-EDA&Responses.ipynb
 
     - Exploring all the dimensions and structure of the data.
     - Gaining some useful insights like distribution of data and presence of outlier.
@@ -142,13 +142,13 @@ pip install -r requirments.txt
 <br/>
 
 
-## 4.Playstore-RegressionModels.ipynb
+### 4.Playstore-RegressionModels.ipynb
 
     - Various Regression models have been tested to find the best model.
     - Classical machine learning models were not only chose from sklearn but also from other various packages which are aggresive too.
 
 
-## 5.Playstore-FeatureSelection.ipynb
+### 5.Playstore-FeatureSelection.ipynb
 
     - After finalising a best fit model, we gave a try implementing some feature selection models, but unfortunatly they were in vain.
 
@@ -159,12 +159,12 @@ pip install -r requirments.txt
 <br/>
 
 
-## 6.Playstore-RegressionCatboost.ipynb
+### 6.Playstore-RegressionCatboost.ipynb
 
     - The finalised model has gone through some manual tuning of hyper parameters and presented as final solution.
     
 
- ### *The thoeritical base and better understanging of the project can still be extracted from the final documentation.*
+ #### *The thoeritical base and better understanging of the project can still be extracted from the final documentation.*
 
 <br/>
 
@@ -178,8 +178,8 @@ pip install -r requirments.txt
 
  # Contact Info
 
-<font size = "3"> Name: Nithish kumar\
+Name: Nithish kumar\
 Github Id: Nithish1201\
 Repo Name: Sucess_prediction_of_app\
 Email id: nithishnit2002@gmail.com\
-Contact: 9360637610<font/>
+Contact: 9360637610
