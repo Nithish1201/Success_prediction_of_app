@@ -176,13 +176,17 @@ Get API KEY of Kaggle by logging yourself into the site
 **Note:**
  *The thoeritical base and better understanging of the project can still be extracted from the final documentation.*
 
+**Note:**
+ *The notebooks ```4``` and ```5``` are optional.*
+
+
 <br/>
 
 # Contributors
    
 - Aditi Mittal
-- Varun
 - Nithish kumar 
+- Varun
 
 
  # Contact Info
