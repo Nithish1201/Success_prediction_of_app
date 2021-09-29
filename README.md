@@ -58,14 +58,13 @@ The below mentioned are some of the most cardinal python modules used in this pr
 
 <br/>
 
-# Instructions
+# Getting Started
 
 
 There are certain steps to be followed to have a correct order of proccessing and specific packages to be installed to have a non-disruptive execution.
 
 This guides you to attain the end goal of the project.
 
-<br/>
 
 **Step-1:**
 
@@ -101,7 +100,6 @@ Get API KEY of Kaggle by logging yourself into the site
 **step-5:**
 
 ## Order of Executing the Notebooks
-<br/>
 
 ### 1.Playstore-Cleaning.ipynb
 
@@ -164,7 +162,7 @@ Get API KEY of Kaggle by logging yourself into the site
     - The finalised model has gone through some manual tuning of hyper parameters and presented as final solution.
     
 
- #### *The thoeritical base and better understanging of the project can still be extracted from the final documentation.*
+ *The thoeritical base and better understanging of the project can still be extracted from the final documentation.*
 
 <br/>
 
@@ -174,7 +172,6 @@ Get API KEY of Kaggle by logging yourself into the site
 - Varun
 - Nithish kumar 
 
-<br/>
 
  # Contact Info
 
