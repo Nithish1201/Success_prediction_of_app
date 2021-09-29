@@ -75,7 +75,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-**step-2:**
+**Step-2:**
 
 ### Clone the repository
 
@@ -92,12 +92,13 @@ git clone https://github.com/Nithish1201/Success_prediction_of_app.git
 pip install -r requirments.txt
 ```
 
-**step-4:**
-
-Get API KEY of Kaggle by logging yourself into the site
+**Step-4:**
+```
+- Get API KEY of Kaggle by logging yourself into the site
+```
 <br />
 
-**step-5:**
+**Step-5:**
 
 ## Order of Executing the Notebooks
 
