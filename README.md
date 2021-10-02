@@ -158,7 +158,7 @@ After logging in to kaggle, obtain the API key and enter when prompted.
 
 ### 5.Playstore-FeatureSelection.ipynb
 
-    - Feature selection on best fit model, no change in the MSE score.
+    - Feature selection on best fit model, no change in the MAE score.
 
 
 **Warning:**
