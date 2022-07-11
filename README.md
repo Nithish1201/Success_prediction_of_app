@@ -4,7 +4,7 @@
 
 There are many app developers putting lot of efforts in making and publishing thier apps in google playstore, expecting to get a good revenue out of it. But most of the time they don't get paid as anticipated. This project of predicting the success of an app helps these developers to decide with which factor they should build thier apps and show thier skills on. 
 
-Basically this projects take some inputs from the user like Size, free or Paid, Ad supported or not, Availability of in app purchases or not, no of months from the release date to till date, no of months from last updated to till date etc... After that he will be given the average downloads as the result that he could get with those factors.
+Basically this projects take some inputs from the user like Size, free or Paid, Ad supported or not, Availability of in app purchases or not, no of months from the release date to till date, no of months from last updated to till date etc.... After that he will be given the average downloads as the result that he could get with those factors.
 
 This will help a lot of developers create thier apps in a way that could most probably result them with the expected revenue.
 
